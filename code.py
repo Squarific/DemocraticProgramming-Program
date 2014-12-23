@@ -7,4 +7,3 @@ def sort_array (array):
     array.sort()
     return array
 sorted_array = sort_array(unsorted_array)
-print(sorted_array)
