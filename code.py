@@ -4,6 +4,9 @@
 unsorted_array = [98, 23, -1, 48, 109, 20]
 def sort_array (array):
     array = array[:] # Copies the array
-    array.sort()
+    for a in range(len(array) - 1, 0, -1):
+        for b in range(a):
+            if array[b] > array[b + 1]:
+                array[b], array[b + 1] = array[b + 1], array[b]
     return array
 sorted_array = sort_array(unsorted_array)
