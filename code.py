@@ -9,3 +9,4 @@ while (!quit) {
 }
 
 commandos = {
+false
