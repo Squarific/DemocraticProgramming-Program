@@ -1,7 +1,9 @@
+// Menu script
 // Cool stuff
 var quit = false;
+var commandos = {
     quit: function () {
-false
+        return true;
     }
 }
 
@@ -12,7 +14,4 @@ while (!quit) {
     if (typeof commandos[inputArray[0]] == "function") {
         quit = commandos[inputArray[0]].apply(commandos, inputArray);
     }
-}
-
-commandos = {
 }
