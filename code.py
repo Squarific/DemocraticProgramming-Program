@@ -8,4 +8,4 @@ while (!quit) {
     }
 }
 
-false
+commandos = {
