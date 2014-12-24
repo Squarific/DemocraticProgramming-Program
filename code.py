@@ -1,8 +1,7 @@
 // Cool stuff
 var quit = false;
-var commandos = {
     quit: function () {
-        return true;
+false
     }
 }
 
