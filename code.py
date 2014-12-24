@@ -5,6 +5,7 @@ var commandos = {
         return true;
     }
 }
+
 while (!quit) {
     var inputString = prompt("What do you want to do?");
     var inputArray = inputString.split(" ");
