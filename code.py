@@ -1,5 +1,4 @@
 // Menu script
-// Cool stuff
 var quit = false;
 var commandos = {
     quit: function () {
