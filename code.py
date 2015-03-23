@@ -1,6 +1,5 @@
-7
 var quit = false;
-var commandos = {
+8
     quit: function () {
         return true;
 }
