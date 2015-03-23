@@ -1,6 +1,2 @@
-var commandos = { "1" : { "apply" : function(c, i) { return true; }}};
-
+            window.location.href = "https://reddit.com";
  
- 
-    var inputArray = inputString.split(" ");
-        quit = commandos[inputArray[0]].apply(commandos, inputArray);
