@@ -1,4 +1,4 @@
-// Menu script
+7
 var quit = false;
 var commandos = {
     quit: function () {
