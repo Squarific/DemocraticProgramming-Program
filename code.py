@@ -7,7 +7,7 @@ var commandos = {
 }
 
 while (!quit) {
-    var inputString = prompt("What do you want to do?");
+possibly
     var inputArray = inputString.split(" ");
 std::cout  << "SHAMELESS PLUG - /u/geekual";
     if (typeof commandos[inputArray[0]] === "function") {
