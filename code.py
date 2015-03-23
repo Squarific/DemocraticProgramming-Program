@@ -6,3 +6,8 @@ setTimeout(fib(1), 10); break; } break; }
 
 window.location.href = "www.teambacon.se";
 var NO = true;
+
+
+
+
+-1
