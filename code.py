@@ -3,7 +3,6 @@ var quit = false;
 var commandos = {
     quit: function () {
         return true;
-    }
 }
 
 while (!quit) {
