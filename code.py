@@ -1,6 +1,6 @@
 console.log("This is awesome");
 console.log("Hello world");
-console.log("░░░░░░░░░░░░▄▐░░░░░░\n ░░░░░░▄▄▄░░▄██▄░░░░░\n ░░░░░▐▀█▀▌░░░░▀█▄░░░\n ░░░░░▐█▄█▌░░░░░░▀█▄░\n ░░░░░░▀▄▀░░░▄▄▄▄▄▀▀░\n ░░░░▄▄▄██▀▀▀▀░░░░░░░\n ░░░█▀▄▄▄█░▀▀░░░░░░░░\n ░░░▌░▄▄▄▐▌▀▀▀░░░░░░░\n ▄░▐░░░▄▄░█░▀▀░░░░░░░ U HAVE BEEN SPOOKED BY THE\n ▀█▌
+3
 alert("It's happening!");
 
 
