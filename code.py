@@ -1,6 +1,4 @@
-console.log("Why this stuff isn't working?");
-
-6
+console.log("op is a faggot")
 
 
 
