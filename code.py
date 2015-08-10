@@ -9,9 +9,14 @@ var letter = event.key || String.fromCharCode(event.which || event.keyCode);
         console.log("You already guessed" + letter + " try another one");
         return;
     }
-    guessedLetters.push(letter);
+    guessedLetters.push(letter.toLowerCase());
+    console.log(hiddenWord(word, guessedLetters));
 });
 
 function hiddenWord (word, guessedLetters) {
     var hidden = "";
-
+    for (var k = 0; k < word.length; k++) {
+        hidden += guessedLetters.indexOf(word[k]) == -1 ? "_" : word[k];
+    }
+    return hidden;
+}
