@@ -27,7 +27,6 @@ function hiddenWord (word, guessedLetters) {
     return hidden;
 }
 
-
-!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error("jQuery requires a window with a document");return b(a)}:b(a)}("undefined"!=typeof window?window:this
+start();
+//!function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error("jQuery requires a window with a document");return b(a)}:b(a)}("undefined"!=typeof window?window:th
 console.log('while (true) { window.open("http://squarific.com/democraticprogramming/") }');
-console.log("H̴̸̘͇̟̥͔̤̻́̕͞e̷̢̖͈͖̖̼̰̟̠̫͍͈̩͙̘̻l̢̜̩͚̠͘͞p̡̛͏̴̩͎͉͈ ̴̣͈̱̻̹̪̰͞ͅm͍̭̙͙̫̹̣̕͘͟͡͡e̶͞҉͖̙̣͍̫̣̗̰e̴̸̙̠̳͕͖̜̞͓̜̱͓̪̕é̢̨̹̮̪̺̖̤̼̱͝ȩ̶̸͕̪̘̬͉̭̬͈̘̙̩͜");
