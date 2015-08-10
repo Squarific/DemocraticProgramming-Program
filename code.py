@@ -1,2 +1,4 @@
 console.log(1 + 1);
-console.log( "yo!")
+document.addEventListener("keydown", function (event) {
+    console.log(event);
+});
