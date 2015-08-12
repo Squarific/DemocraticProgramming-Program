@@ -2,7 +2,6 @@
 var word, guessedLetters;
 function start() {
     console.log("You are playing hangman! Press letters that you think are in the word.");
-5
     word = words[Math.floor(Math.random() * words.length)];
     guessedLetters = [];
 }
